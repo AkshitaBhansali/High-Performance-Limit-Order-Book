@@ -2,3 +2,4 @@
 .vscode/
 \googletest
 /Generate_Orders/orders.txt
+.DS_Store.DS_Store
